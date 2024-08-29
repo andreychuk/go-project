@@ -1,0 +1,13 @@
+# Ignore debug binary files
+cmd/__debug_bin*
+
+# Go build cache
+/bin/
+/build/
+/vendor/
+
+# Ignore IDE-specific files
+.idea/
+*.swp
+.vscode/
+.DS_Store
